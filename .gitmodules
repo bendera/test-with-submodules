@@ -1,0 +1,6 @@
+[submodule "flashcards"]
+	path = flashcards
+	url = git@github.com:bendera/flashcards.git
+[submodule "placeholder"]
+	path = placeholder
+	url = git@github.com:bendera/placeholder.git
