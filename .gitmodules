@@ -1,6 +1,0 @@
-[submodule "example-submodule"]
-	path = example-submodule
-	url = git@github.com:githubtraining/example-submodule.git
-[submodule "markdown-finder"]
-	path = markdown-finder
-	url = git@github.com:githubtraining/markdown-finder.git
